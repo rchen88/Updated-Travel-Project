@@ -1,0 +1,35 @@
+name,price,food,population,continent,activity,climate,language
+Amalfi,high,european,small,europe,relaxation,warm,italian
+Antelope,low,american,small,north america,hiking,hot,english
+Grand Canyon,low,american,small,north america,tours,hot,english
+Iguazu Falls,medium,south america,medium,south america,hiking,warm,spanish
+Kuang Si Falls,medium,asian,small,asia,hiking,hot,lao
+Machu Picchu,medium,south america,medium,south america,tours,warm,spanish
+Marble Caves,medium,south america,medium,south america,hiking,hot,spanish
+Moraine Lake,low,american,large,north america,relaxation,temperate,english
+Niagra Falls,low,american,medium,north america,tours,warm,english
+Plitvice Lakes,high,european,large,europe,hiking,warm,croatian
+Victoria Falls,high,african,large,africa,relaxation,hot,african
+Zhangye Danxia,high,asian,large,asia,shopping,temperate,chinese
+Madrid,medium,european,medium,europe,tours,warm,english
+Tokyo,high,asian,large,asia,shopping,warm,japanese
+New York,low,american,large,north america,shopping,temperate,english
+Los Angeles,medium,american,large,north america,relaxation,hot,english
+Paris,high,european,medium,europe,tours,hot,french
+London,medium,european,large,europe,shopping,warm,english
+Cape Town,high,african,medium,africa,tours,hot,english
+Lisbon,medium,european,medium,europe,tours,hot,spanish
+Chicago,low,american,large,north america,shopping,temperate,english
+Rome,high,european,large,europe,tours,temperate,italian
+Honolulu,low,american,small,north america,hiking,warm,english
+Nashville,low,american,small,north america,relaxation,warm,english
+Bangkok,high,asian,large,asia,tours,hot,thai
+Dubai,high,middle eastern,large,asia,shopping,warm,english
+Istanbul,medium,middle eastern,large,asia,tours,hot,turkish
+Barcelona,medium,european,medium,europe,relaxation,warm,spanish
+Bali,medium,asian,small,asia,relaxation,hot,english
+Miami,low,american,medium,north america,relaxation,hot,english
+Costa Rica,low,american,small,north america,hiking,hot,english
+Banff,low,canadian,medium,north america,hiking,temperate,english
+Sydney,high,australian,large,australia,shopping,temperate,english
+Santorini,high,european,small,europe,shopping,hot,greek
